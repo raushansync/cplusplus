@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/raushan/code/cplusplus/langStdCheck/main'
+relocations:     []
+...
